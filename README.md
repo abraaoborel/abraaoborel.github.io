@@ -29,14 +29,4 @@ Estas são algumas das tecnologias com as quais estou trabalhando e interessado 
 - Linguagens: Python, (aprendendo: HTML/CSS, proxima da lista: JavaScript)
 - Ferramentas: Git, Visual Studio Code, PyCharm Community
 
-## Contato
-
-Você pode me contatar através das seguintes formas:
-
-- 📧 Email: seu_email@example.com
-- 💼 LinkedIn: [Seu Perfil no LinkedIn](link_para_seu_perfil_no_LinkedIn)
-- 🐦 Twitter: [@SeuNome](link_para_seu_perfil_no_Twitter)
-
-## Agradecimentos
-
 Agradeço por visitar o meu repositório.github.io! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se tiver alguma pergunta ou sugestão.
